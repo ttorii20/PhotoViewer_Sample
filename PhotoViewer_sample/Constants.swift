@@ -7,3 +7,22 @@
 //
 
 import Foundation
+
+
+struct Constants {
+    
+    struct Segue {
+        static let PhotoListViewToImgView = "PhotoListViewToImgView"
+  
+    }
+    
+    struct Xib{
+        static let PhotoListTableViewCell = "PhotoListTableViewCell"
+
+    }
+    
+}
+
+
+
+
